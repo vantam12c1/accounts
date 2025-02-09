@@ -77,4 +77,5 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   renderHtml();
+  console.log('1')
 });
