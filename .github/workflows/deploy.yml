@@ -28,3 +28,5 @@ jobs:
         with:
           branch: gh-pages  # Branch chứa file build
           folder: dist       # Thư mục chứa file build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
