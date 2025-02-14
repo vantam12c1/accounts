@@ -1,10 +1,16 @@
 import "./index.css";
 
 const data = {
-  github: [
+  Github: [
     {
       email: "vantam12c1",
       password: "&VanTam99",
+    },
+  ],
+  Gitlab: [
+    {
+      email: "vantam12c1",
+      password: "&VanTam071299",
     },
   ],
   Gmail: [
